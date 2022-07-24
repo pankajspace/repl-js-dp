@@ -1,0 +1,12 @@
+visitor
+template method
+state
+memento
+mediator
+iterator
+interpretor
+command
+chain of responsibility
+pub sub
+strategy
+observer

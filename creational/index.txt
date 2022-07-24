@@ -1,0 +1,8 @@
+prototype
+builder
+abstract factory
+constructor
+factory method
+module
+revealing module
+singleton

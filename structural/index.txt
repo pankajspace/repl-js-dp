@@ -1,0 +1,7 @@
+proxy
+flyweight
+decorator
+composite
+bridge
+adapter
+facade
